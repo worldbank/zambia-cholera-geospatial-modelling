@@ -100,6 +100,10 @@
 !/**/Output/**/*.eps
 !/**/Output/**/*.svg
 
+!/input_data/*
+!/output/*
+!/figures/*
+
 #######################
 # Include all the files with passwords or tokens here. All files named
 # password or passwords are with this template ignored no matter which

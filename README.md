@@ -1,2 +1,2 @@
 # zambia-cholera-geospatial-modelling
-Store code for the geospatial modeling conducted in Zambia on the Oct 2017-May 2018 outbreak in Lusaka
+This repository contains the data for replication of geospatial modeling work conducted on the Oct 2017-May 2018 cholera outbreak in Lusaka, Zambia to identify associated risk factors. 

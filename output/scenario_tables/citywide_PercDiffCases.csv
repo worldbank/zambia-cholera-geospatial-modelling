@@ -1,0 +1,19 @@
+Action,Location,% reduction in city-wide cases ,Population targeted,Efficiency ratio
+Provide piped water to premises,Everywhere,-60.86," 1,761,855 ", 0.35 
+Provide piped water to premises,<1000m from network,-31.06," 770,622 ", 0.40 
+Provide piped water to premises,<500m from network,-25.11," 619,937 ", 0.41 
+Ensure at least public tap within 100m,Everywhere,-6.00," 532,065 ", 0.11 
+Ensure at least public tap within 100m,<1000m from network,-3.23," 244,082 ", 0.13 
+Ensure at least public tap within 100m,<500m from network,-2.82," 210,473 ", 0.13 
+Provide flush to sewer,Everywhere,-89.24," 1,771,116 ", 0.50 
+Provide flush to sewer,<1000m from network,-28.88," 689,562 ", 0.42 
+Provide flush to sewer,<500m from network,-13.03," 412,765 ", 0.32 
+Provide flush to sewer,WB Sewer Area Year 1,-0.96," 59,094 ", 0.16 
+Provide flush to sewer,"WB Sewer Area Year 1,CSE-14,CSE-20",-6.35," 89,432 ", 0.71 
+Provide flush to sewer,"WB Sewer Area Year 1,CSE-14,CSE-20,CSE-05,CSE-10,CSE-25",-10.13," 172,723 ", 0.59 
+Ensure at least improved+shared onsite facility,Everywhere,-56.25," 1,457,934 ", 0.39 
+Ensure at least improved+shared onsite facility,WB Onsite Sanitation Areas,-22.22," 303,500 ", 0.73 
+Eliminate flood risk,Everywhere,-29.86," 1,771,116 ", 0.17 
+Ensure flood risk does not exceed 'low',Everywhere,-10.84," 748,480 ", 0.14 
+Ensure flood risk does not exceed 'medium',Everywhere,-2.28," 213,726 ", 0.11 
+Eliminate E.coli risk,Everywhere,-52.29," 1,771,116 ", 0.30 
